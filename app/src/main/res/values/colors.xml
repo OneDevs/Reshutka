@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_color">#4B603D</color>
+    <!-- Menu -->
+    <color name="bacground_header_menu">#ff5e3a</color>
+</resources>

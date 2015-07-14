@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Решутка</string>
+    <string name="title_activity_reag">Регистрация</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_login_main">LoginMainActivity</string>
+    <string name="captcha_hint">Введите код подтверждения</string>
+    <string name="email_hint">Введите свой email</string>
+    <string name="password_hint">Введите пароль</string>
+    <string name="actionbar_app_name">Решутка</string>
+    <string name="title_activity_work_create">Выбрать задание</string>
+    <string name="title_activity_work_list">Отправленные задания</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="drawer_close">AKJER</string>
+    <string name="drawer_open">asdsad</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_form_worck">FormWorckActivity</string>
+</resources>

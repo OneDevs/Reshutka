@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.onedev.reshutka" >
+
+    <!-- -android:theme="@style/Theme.AppCompat.Light.NoActionBar" -->
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".ReagActivity"
+            android:label="@string/title_activity_reag" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".WorkCreateActivity"
+            android:label="@string/title_activity_work_create" >
+        </activity>
+        <activity
+            android:name=".LoginMainActivity"
+            android:label="@string/title_activity_work_list" >
+        </activity>
+        <activity
+            android:name=".WorkListActivity"
+            android:label="@string/title_activity_work_list" >
+        </activity>
+        <activity
+            android:name=".FormWorckActivity"
+            android:label="@string/title_activity_form_worck" >
+        </activity>
+    </application>
+
+</manifest>

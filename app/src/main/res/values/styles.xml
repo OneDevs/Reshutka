@@ -1,0 +1,24 @@
+<resources>
+
+    <style name="AppTheme"  parent="Theme.Base"></style>
+    <!-- the theme applied to the application or activity -->
+
+    <style name="Theme.Base"  parent="Theme.AppCompat.Light">
+        <!-- Support library compatibility -->
+        <!--<item name="actionBarStyle">@style/MyActionBar</item>-->
+        <item name="colorPrimary">@color/actionbar_color</item>
+        <item name="colorPrimaryDark">@color/actionbar_color</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- ActionBar styles
+    <style name="MyActionBar"  parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/actionbar_color</item>
+
+        <item name="background">@color/actionbar_color</item>
+        <item name="displayOptions">homeAsUp|showTitle|showHome</item>
+    </style>-->
+
+</resources>
+
